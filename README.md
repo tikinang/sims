@@ -1,2 +1,1 @@
-# sims
-Simulation of life.
+# Simulation of life
