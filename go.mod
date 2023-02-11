@@ -1,6 +1,6 @@
 module github.com/tikinang/sims
 
-go 1.19
+go 1.20
 
 require github.com/charmbracelet/bubbletea v0.22.1
 
@@ -15,7 +15,7 @@ require (
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.12.0 // indirect
 	github.com/rivo/uniseg v0.3.4 // indirect
-	golang.org/x/sys v0.0.0-20220825204002-c680a09ffe64 // indirect
+	golang.org/x/sys v0.4.0 // indirect
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
